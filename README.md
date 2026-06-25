@@ -1,10 +1,10 @@
-# Hi, I'm Indranath Ghosh 👋
+# Hi, I'm Craftzbyte 👋
 
-### Frontend-focused SDE-II · Founding Engineer · React / TypeScript Specialist
+### Frontend-focused Fullstack AI Engineer | Building AI-powered apps.
 
-I build scalable, high-performance web applications from `0 → 1`. Currently a founding engineer at **GoKwik (via Primathon)**, where I architected the frontend for KwikPass & KwikAds. I care about clean component architecture, fast load times, and shipping features that move business metrics.
+I build scalable, high-performance web applications from `0 → 1`. As a founding engineer, I architected the frontend for **KwikPass** & **KwikAds**. I care about clean component architecture, fast load times, and shipping features that move business metrics.
 
-- 🔭 Building **KwikPass** & **KwikAds** — React, TypeScript, Next.js, micro-frontends
+- 🔭 Built **KwikPass** & **KwikAds** — React, TypeScript, Next.js, micro-frontends
 - ⚡ I obsess over performance: Lighthouse 95+, 50% faster loads, 30% smaller bundles
 - 🏆 Won the **Gen-AI Hackathon** building an LLM-powered prototype with React
 - 🌱 Exploring React Server Components, Svelte 5, and AI-assisted development
@@ -45,13 +45,13 @@ I build scalable, high-performance web applications from `0 → 1`. Currently a 
 
 ## 💼 What I've Shipped
 
-**🚀 GoKwik — SDE-II / Founding Engineer** *(Dec 2023 – Present)*
+**🚀 SDE-II / Founding Engineer** *(Dec 2023 – Present)*
 - Architected KwikPass & KwikAds frontend from scratch in React + TypeScript + Redux; built a scalable component library that cut feature delivery time by **40%**
 - Built KwikAds with React + Svelte micro-frontends and Meta Events API, lifting EMQ by **20%** and ad attribution accuracy by **35%**
 - Delivered config-driven forms (React Hook Form + Zod), autofill, and integrations that raised conversion **25%** and revenue **15%**
 - Cut bundle size **30%** via Webpack 5 optimizations; achieved Lighthouse **95+** and **50%** faster initial loads
 
-**🏥 Spikewell — Sr. SDE / SDE** *(Apr 2020 – Oct 2023)*
+**🏥 Sr. SDE / SDE** *(Apr 2020 – Oct 2023)*
 - Built a React + TypeScript healthcare app for a US hospital integrated with Cerner EHR (SMART on FHIR / HL7), reducing documentation time by **60%**
 - Engineered a real-time collaborative DMS (Redux + WebSockets) serving **200+** concurrent users with zero data loss
 - Secured a physician portal with RBAC + Okta OAuth 2.0 and in-browser PDF editing via Canvas API
