@@ -45,7 +45,7 @@ I build scalable, high-performance web applications from `0 → 1`. As a foundin
 
 ## 💼 What I've Shipped
 
-**🚀 SDE-II / Founding Engineer** *(Dec 2023 – Present)*
+**🚀 SDE-II / Founding Engineer** *(Dec 2023 – Apr 2026)*
 - Architected KwikPass & KwikAds frontend from scratch in React + TypeScript + Redux; built a scalable component library that cut feature delivery time by **40%**
 - Built KwikAds with React + Svelte micro-frontends and Meta Events API, lifting EMQ by **20%** and ad attribution accuracy by **35%**
 - Delivered config-driven forms (React Hook Form + Zod), autofill, and integrations that raised conversion **25%** and revenue **15%**
@@ -63,19 +63,11 @@ I build scalable, high-performance web applications from `0 → 1`. As a foundin
 
 <div align="center">
 
-![Indranath's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&theme=graywhite)
+![Indranath's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftzbyte&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&theme=graywhite)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=2563EB&theme=graywhite)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=craftzbyte&layout=compact&hide_border=true&title_color=2563EB&theme=graywhite)
 
 </div>
-
----
-
-## 🎓 Education
-
-**B.Tech, Computer Science** — Silicon Institute of Technology, Bhubaneswar *(2021)*
-
----
 
 ## 🤝 Let's Connect
 
